@@ -139,8 +139,9 @@ body {
   color: #009688;
 } */
 
+/* I think this us the color of the contact */
 a {
-  color: #fff200;
+  color: #000000;
 }
 
 /* main blockqoute */
@@ -550,7 +551,7 @@ small {
 
 
 .teal-text {
-  color: #e601c0 !important; /* I think this is the color for thh name tag */
+  color: #000000 !important; /* I think this is the color for thh name tag */
 }
 
 /*
@@ -566,7 +567,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important; /* I think this is the color for thh name tag */
+  background-color: #ff00f2 !important; 
 }
 
 /* .teal {
