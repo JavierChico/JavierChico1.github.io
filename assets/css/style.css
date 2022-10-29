@@ -565,9 +565,9 @@ small {
 } */
 
 /* .teal */
-
+/* This is the color of the big name background and section titles */
 .teal {
-  background-color: #ff00f2 !important; 
+  background-color: #00A5CF !important; 
 }
 
 /* .teal {
