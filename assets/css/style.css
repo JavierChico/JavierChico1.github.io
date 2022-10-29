@@ -548,9 +548,16 @@ small {
 
 /* main .teal-text */
 
+
+.teal-text {
+  color: #e601c0 !important; /* I think this is the color for thh name tag */
+}
+
+/*
 .teal-text {
   color: #008073 !important;
 }
+*/
 
 /* .teal-text {
   color: #0b5e86 !important;
@@ -559,7 +566,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #008073 !important; /* I think this is the color for thh name tag */
 }
 
 /* .teal {
